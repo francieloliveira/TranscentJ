@@ -36,6 +36,6 @@ dependencies {
     implementation("androidx.percentlayout:percentlayout:1.0.0")
     implementation("androidx.legacy:legacy-support-v4:1.0.0")
     implementation("androidx.recyclerview:recyclerview:1.3.2")
-    implementation("androidx.appcompat:appcompat:1.4.0")
-
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("edu.cmu.pocketsphinx:pocketsphinx-android:5prealpha-SNAPSHOT")
 }
